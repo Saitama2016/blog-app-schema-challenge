@@ -16,5 +16,11 @@
   "bugs": {
     "url": "https://github.com/Saitama2016/blog-app-schema-challenge/issues"
   },
-  "homepage": "https://github.com/Saitama2016/blog-app-schema-challenge#readme"
+  "homepage": "https://github.com/Saitama2016/blog-app-schema-challenge#readme",
+  "dependencies": {
+    "express": "^4.16.3",
+    "mongoose": "^5.2.5",
+    "morgan": "^1.9.0",
+    "uuid": "^3.3.2"
+  }
 }
